@@ -120,7 +120,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../loja" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
@@ -139,7 +139,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582990811929</updated>
-      <workItem from="1582990813951" duration="2100000" />
+      <workItem from="1582990813951" duration="3584000" />
     </task>
     <servers />
   </component>
@@ -147,6 +147,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1582993938173">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1582993938173" />
     <state x="517" y="288" key="NewPhpFileDialog" timestamp="1582990912953">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

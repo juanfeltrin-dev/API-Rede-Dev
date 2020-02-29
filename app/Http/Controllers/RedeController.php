@@ -12,20 +12,21 @@ class RedeController extends Controller
 
     public function __construct()
     {
-        $this->authorization = base64_encode('10005285:e0ed0a851e7c436d8dbe4f5e2ab6ccdf');
+        $this->authorization = 'Basic ' . base64_encode('10005285:e0ed0a851e7c436d8dbe4f5e2ab6ccdf');
     }
 
     public function getHeader()
     {
         return [
-            'Authorization' => $this->authorization
+            'Authorization' => $this->authorization,
+            'content-type'     => 'application/json'
         ];
     }
 
     public function getBody()
     {
         return json_encode([
-            "reference" => "pedido123",
+            "reference" => rand(1000, 9999),
             "amount" => 2099,
             "cardholderName" => "John Snow",
             "cardNumber" => "5448280000000007",
@@ -47,6 +48,10 @@ class RedeController extends Controller
             'body' => $this->getBody()
         ]);
 
-        return view('index');
+        $data = [
+            'payment' => json_decode($res->getBody()->getContents())
+        ];
+
+        return view('index', $data);
     }
 }
