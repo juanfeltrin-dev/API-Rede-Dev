@@ -7,7 +7,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <executable />
@@ -120,7 +120,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../loja" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dev-web/dev-web-senac" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
@@ -139,7 +139,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582990811929</updated>
-      <workItem from="1582990813951" duration="3584000" />
+      <workItem from="1582990813951" duration="3661000" />
+      <workItem from="1583015560347" duration="2636000" />
     </task>
     <servers />
   </component>
@@ -147,13 +148,21 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1582993938173">
+    <state x="413" y="120" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1583016706769">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1582993938173" />
+    <state x="413" y="120" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1583016706769" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1583072976391">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583072976391" />
     <state x="517" y="288" key="NewPhpFileDialog" timestamp="1582990912953">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="517" y="288" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1582990912953" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1583072968489">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583072968489" />
   </component>
 </project>

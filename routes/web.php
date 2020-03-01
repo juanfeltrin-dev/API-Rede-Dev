@@ -11,4 +11,5 @@
 |
 */
 
-Route::get('/', 'RedeController@index');
+Route::get('rede', 'RedeController@index');
+Route::get('cielo', 'CieloController@index');
