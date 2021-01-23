@@ -11,5 +11,8 @@
 |
 */
 
-Route::get('rede', 'RedeController@index');
-Route::get('cielo', 'CieloController@index');
+
+use Illuminate\Support\Facades\Route;
+
+Route::get('/', 'PaymentController@index')->name('pay.form');
+Route::post('/pay', 'PaymentController@pay')->name('pay');

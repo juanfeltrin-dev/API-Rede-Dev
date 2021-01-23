@@ -120,8 +120,17 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dev-web/dev-web-senac" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/Services/Payment/Client/Request" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\API-Rede\app\Services\Payment\Factory" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\API-Rede\app\Services\Payment\Client\Request" />
+      <recent name="D:\xampp\htdocs\API-Rede\app\Services\Payment\Client\Response" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -141,6 +150,10 @@
       <updated>1582990811929</updated>
       <workItem from="1582990813951" duration="3661000" />
       <workItem from="1583015560347" duration="2636000" />
+      <workItem from="1611355096302" duration="4000000" />
+      <workItem from="1611368942996" duration="881000" />
+      <workItem from="1611412201398" duration="9942000" />
+      <workItem from="1611423843819" duration="7263000" />
     </task>
     <servers />
   </component>
@@ -148,21 +161,33 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="413" y="120" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1583016706769">
+    <state x="672" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1611416995627">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="413" y="120" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1583016706769" />
-    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1583072976391">
+    <state x="672" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1611416995627" />
+    <state x="437" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1611420072211">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583072976391" />
-    <state x="517" y="288" key="NewPhpFileDialog" timestamp="1582990912953">
+    <state x="437" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1611420072211" />
+    <state x="413" y="120" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1611421639494">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="517" y="288" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1582990912953" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1583072968489">
+    <state x="413" y="120" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1611421639494" />
+    <state x="438" y="179" key="NewPhpClassDialog" timestamp="1611421590647">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583072968489" />
+    <state x="438" y="179" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1611421590647" />
+    <state x="517" y="288" key="NewPhpFileDialog" timestamp="1611429958865">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="288" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1611429958865" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1611423849444">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1611423849444" />
+    <state x="339" y="17" width="670" height="676" key="search.everywhere.popup" timestamp="1611431039598">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="17" width="670" height="676" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1611431039598" />
   </component>
 </project>
